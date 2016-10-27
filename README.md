@@ -17,7 +17,7 @@ And then you can run the executable via `./tmp`
 If you don't have it, you can install CMake via brew with:
 
 ```
-brew install cmake
+sudo brew install cmake
 ```
 
 Then do the following for you first build:
