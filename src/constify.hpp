@@ -1,5 +1,5 @@
-#ifndef CONSTIFY_H
-#define CONSTIFY_H
+#ifndef CONSTIFY_HPP
+#define CONSTIFY_HPP
 
 template<class T>
 struct constify {

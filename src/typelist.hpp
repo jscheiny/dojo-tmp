@@ -1,8 +1,8 @@
-#ifndef TYPE_LIST_H
-#define TYPE_LIST_H
+#ifndef TYPELIST_HPP
+#define TYPELIST_HPP
 
 template<class... Ts>
-struct type_list {
+struct typelist {
     static constexpr auto size = sizeof...(Ts);
 };
 

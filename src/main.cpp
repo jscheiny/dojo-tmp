@@ -1,5 +1,5 @@
-#include "constify.h"
-#include "square.h"
+#include "constify.hpp"
+#include "square.hpp"
 
 #include <iostream>
 
