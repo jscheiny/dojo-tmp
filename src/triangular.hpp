@@ -1,3 +1,13 @@
+/*
+ * Triangular is a template that stupidly computes the Nth triangular number.
+ * This is a simple example of template specialization to provide a base case
+ * for the recursion.
+ *
+ * Usage:
+ * Verbose: triangular<N>::value
+ * Concise: triangular_v<N>
+ */
+
 #ifndef TRIANGULAR_HPP
 #define TRIANGULAR_HPP
 
