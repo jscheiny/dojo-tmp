@@ -36,3 +36,4 @@ For all future builds, simple run `make` within the `build` directory.
 * [C++ Reference](http://en.cppreference.com/w/)
 * [`<type_traits>`](http://en.cppreference.com/w/cpp/header/type_traits)
 * [`std::numeric_limits`](http://en.cppreference.com/w/cpp/types/numeric_limits)
+* [Kiff: A language which compiles into C++ templates](https://gergo.erdi.hu/projects/metafun/)
