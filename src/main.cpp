@@ -1,6 +1,7 @@
 #include "constify.hpp"
 #include "square.hpp"
 #include "triangular.hpp"
+#include "fibonacci.h"
 
 #include <iostream>
 
@@ -12,6 +13,8 @@ int main() {
     cout << "4 squared is " << square_v<4> << endl;
 
     cout << "The 10th triangular number is " << triangular_v<10> << endl;
+
+    cout << "gcd(182, 126) = " << gcd_v<182, 126> << endl;
 
     static_assert(std::is_same<const int, constify<int>::type>::value,
         "constify<int>::type should produce a const int");
