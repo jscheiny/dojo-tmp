@@ -34,5 +34,5 @@ For all future builds, simple run `make` within the `build` directory.
 ## Useful links
 
 * [C++ Reference](http://en.cppreference.com/w/)
-* [`<type_traits>` header](http://en.cppreference.com/w/cpp/header/type_traits)
+* [`<type_traits>`](http://en.cppreference.com/w/cpp/header/type_traits)
 * [`std::numeric_limits`](http://en.cppreference.com/w/cpp/types/numeric_limits)
