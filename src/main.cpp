@@ -1,7 +1,7 @@
 #include "constify.hpp"
 #include "square.hpp"
 #include "triangular.hpp"
-#include "fibonacci.h"
+#include "gcd.hpp"
 
 #include <iostream>
 
