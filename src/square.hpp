@@ -1,5 +1,5 @@
 /*
- * Constify is a template that yields a compile time constant value which is the
+ * Square is a template that yields a compile time constant value which is the
  * square of the input value. This is a basic example of working with compile
  * time constants.
  *
